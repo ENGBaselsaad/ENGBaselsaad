@@ -1,23 +1,24 @@
-# About me
+# Hi, I'm Basel Saad 👋
 
-**ENG. Basel Saad** 
+**💻 Computer Engineer | Full-Stack Developer | Technology & STEM**
 
--🌍 Passionate Computer Engineer with a diverse management background, currently diving deep into full-stack development at AXSOS Academy.
+I'm a computer engineer passionate about building practical software solutions and exploring how technology can make a meaningful difference.
 
--💡 Problem-solver with a focus on building intuitive, user-centered solutions, combining both front-end and back-end skills.
+🏢 Currently, I work as an **Engineer in the Technology Department at the Jerusalem Directorate of Education**, following my previous role as a Computer Engineer and Vocational Instructor within the same institution.
 
-🎓 Bachelor's in Computer Engineering | Pursuing Master's in Software Engineering at Al-Quds University.
+🚀 My experience spans **full-stack development, technical education, STEM initiatives, and laboratory coordination**, including supervising programming and AI activities and contributing to technology teacher training.
 
--🚀 Aspiring to create innovative tech solutions and make an impact in the tech industry. 
-Future goal: Establish my own tech solutions company.
+### 🛠️ Tech Stack
+**Python · Django · JavaScript · React · Node.js · SQL · MongoDB · Arduino**
 
--💼 Open to collaboration, learning, and connecting with fellow developers!
+### 🎓 Education & Training
+- 🎓 **B.Sc. in Computer Engineering** — Al-Quds University
+- 💻 **Full-Stack Development Training** — AXSOS Academy
+- 📊 **Mini MBA** — Cambridge Training College
 
-- 🔭 I’m currently working on full-stack development projects, blending my Computer Engineering background with real-world solutions.
-  
-- 💬 Ask me about full-stack dev, Computer Engineering, chess strategies, or the intersection of philosophy and politics.
-  
-- 📫 How to reach me: baselsaad9999@gmail.com | https://www.facebook.com/basel.saad.585/ | www.linkedin.com/in/basel-saad-50529a310
-  
-- ⚡ Random facts: I drink a lot of coffee, Playing chess is my zen time, I love to cook (and eat), I'm a bit of a winning freak, I'm slightly addicted to youtube.
+### ♟️ Beyond the Code
+I enjoy chess, philosophy, coffee, and exploring new ideas. My long-term ambition is to establish a technology solutions company.
+
+### 📬 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/basel-saad-50529a310/) · [Email](mailto:baselsaad9999@gmail.com) · [GitHub](https://github.com/ENGBaselsaad)
 
