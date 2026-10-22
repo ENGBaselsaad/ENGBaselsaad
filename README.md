@@ -13,7 +13,7 @@ I'm a computer engineer passionate about building practical software solutions a
 
 ### 🎓 Education & Training
 - 🎓 **B.Sc. in Computer Engineering** — Al-Quds University
-- 💻 **Full-Stack Development Training** — AXSOS Academy
+- 💻 **Full-Stack Development BootCamp** — AXSOS Academy
 - 📊 **Mini MBA** — Cambridge Training College
 
 ### ♟️ Beyond the Code
